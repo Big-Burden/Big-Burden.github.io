@@ -18,14 +18,14 @@ minimal_mistakes_skin    : "burden" # "air", "aqua", "contrast", "dark", "dirt",
 locale                   : "en-US"
 title                    : "Chloe Burden"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Chloe Burden"
-description              : "An amazing website."
+subtitle                 : Gameplay programmer
+name                     : "Chloe Burden - Gameplay programmer"
+description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/chagoi.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/chagoi.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+#logo                     : "/assets/images/chagoi.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -141,9 +141,13 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Big-Burden"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "www.linkedin.com/in/chloe-burden-a505bb254"
     - label: "Chloe.Elise.Burden@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:Chloe.Elise.Burden@gmail.com"
+
 
 
 

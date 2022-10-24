@@ -1,9 +1,10 @@
 ---
-title: Title
+title: 
 layout: collection
-permalink: /portfolio/
+permalink: /
 collection: portfolio
 entries_layout: grid
-classes: wide
+classes: wide2
+sidebar: false
 toc: false
 ---
