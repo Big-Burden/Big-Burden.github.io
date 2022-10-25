@@ -290,6 +290,7 @@ defaults:
       share: true
       related: true
       classes: wide
+      show_date: false
       
 collections:
   portfolio:
@@ -305,3 +306,4 @@ defaults:
       layout: single
       author_profile: true
       share: false
+      show_date: false

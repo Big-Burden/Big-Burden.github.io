@@ -219,12 +219,13 @@
   }
 
   .archive__item-teaser {
+  	border: 2px solid $primary-color;
     @include breakpoint($small) {
-      max-height: 350px;
+      max-height: 360px;
     }
 
     @include breakpoint($medium) {
-      max-height: 350px;
+      max-height: 360px;
     }
   }
 }
