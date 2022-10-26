@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "burden" # "air", "aqua", "contrast", "dark", "dirt",
 # Site Settings
 locale                   : "en-US"
 title                    : "Chloe Burden"
-title_separator          : "-"
+title_separator          : ""
 subtitle                 : Gameplay programmer
-name                     : "Chloe Burden - Gameplay programmer"
+name                     : "Chloe Burden"
 description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -143,7 +143,7 @@ footer:
       url: "https://github.com/Big-Burden"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
-      url: "www.linkedin.com/in/chloe-burden-a505bb254"
+      url: "https://linkedin.com/in/chloe-burden-a505bb254"
     - label: "Chloe.Elise.Burden@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:Chloe.Elise.Burden@gmail.com"
